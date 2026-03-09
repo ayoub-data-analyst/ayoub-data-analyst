@@ -47,15 +47,6 @@ I don't just run code. I ask: *"What decision does this data need to support?"*
 
 *(More projects coming — currently building in public)*
 
----
-
-## 📈 GitHub Stats
-
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub-data-analyst&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-data-analyst&layout=compact&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 I'm actively looking for **internship or junior Data Analyst / BI Analyst opportunities.**  
