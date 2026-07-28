@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=AYOUB%20EL-OUICHOUANY&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=AYOUB%20EL-OUICHOUANY&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=Junior%20Data%20Engineer%20%7C%20Analytics%20Engineer%20%7C%20Data%20Analyst&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/ayoub-el-ouichouany">
-<img src="https://readme-typing-svg.demolab.com/?lines=Turning+messy+data+into+business+decisions;Clean+%E2%86%92+Analyze+%E2%86%92+Visualize+%E2%86%92+Recommend;Open+to+Internship+%2F+Junior+Analyst+roles;Based+in+Beni+Mellal%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6&font=Fira+Code&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&height=45&separator=%3B"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+data+pipelines;Bronze+%E2%86%92+Silver+%E2%86%92+Gold%2C+the+Medallion+way;Airflow+%2B+dbt+%2B+Snowflake+%2B+Power+BI;Open+to+Junior+Data+Engineer+%2F+Analytics+Engineer+roles&font=Fira+Code&size=19&pause=1500&color=38BDF8&center=true&vCenter=true&width=680&height=45&separator=%3B"/>
 </a>
 
 </div>
@@ -20,32 +20,37 @@
 
 ### Ayoub El-ouichouany
 
-**Data Analyst · Simplon 2026**
+**Junior Data Engineer · Analytics Engineer**
 
-📍 Beni Mellal, Morocco 🇲🇦
-🎓 Training @ [Simplon](https://github.com/simplonco)
+📍 Béni Mellal, Morocco 🇲🇦
+🎓 Data Analyst training @ CCFBS – Simplon Maghreb
 ✅ Open to internships & junior roles
 
 <a href="https://www.linkedin.com/in/ayoub-el-ouichouany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ayoub.el-ouichouany@ccfbs.ma"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ayoubelouichouany0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/ayoub-data-analyst"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="tel:+212601892215"><img src="https://img.shields.io/badge/+212_601_892_215-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 
 </td>
 <td width="70%" valign="top">
 
 ```yaml
-role:        Data Analyst
-focus:       Business Intelligence & ETL Pipelines
-workflow:    clean → analyze → visualize → recommend
-core_stack:  [Python, SQL, Power BI, PostgreSQL]
-status:      Actively building in public
-looking_for: Internship / Junior Data Analyst role
+role:        Junior Data Engineer / Analytics Engineer / Data Analyst
+focus:       End-to-end data pipelines, modern data stack
+workflow:    ingest → transform (Medallion) → model → visualize
+core_stack:  [Python, SQL, Snowflake, Airflow, dbt, Power BI]
+status:      In training @ Simplon (Jan 2026 – present)
+looking_for: Junior Data Engineer / Analytics Engineer / Data Analyst role
 ```
 
-**What I do**
-I take raw, messy datasets and turn them into KPIs, dashboards and pipelines
-that help teams stop guessing and start deciding. Recent work spans sales
-analytics, ETL pipeline design and PostgreSQL data warehousing.
+**Summary**
+Junior Data Engineer & Analytics Engineer with hands-on experience designing
+end-to-end pipelines across a modern data stack — from ingestion to BI
+dashboards. Comfortable orchestrating ETL/ELT with Apache Airflow and dbt,
+dimensional modeling on Snowflake and PostgreSQL, and building Power BI
+reporting solutions. On one project, this cut reporting time by 80% while
+handling 10M+ rows/day. Looking for a Junior Data Engineer, Analytics
+Engineer or Data Analyst role to ship scalable, cloud-based data solutions.
 
 </td>
 </tr>
@@ -57,17 +62,26 @@ analytics, ETL pipeline design and PostgreSQL data warehousing.
 
 ### 🧠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" height="45"/>
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile_Scrum-6DB33F?style=for-the-badge"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark" height="45"/>
 
 </div>
 
@@ -82,8 +96,6 @@ analytics, ETL pipeline design and PostgreSQL data warehousing.
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-data-analyst&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=C9D1D9"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-data-analyst&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
-
 </div>
 
 <br/>
@@ -94,44 +106,62 @@ analytics, ETL pipeline design and PostgreSQL data warehousing.
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Superstore Sales Analysis
-**Problem** → Raw 9,994-row retail dataset with no clear KPIs
-**Solution** → End-to-end cleaning + analysis in Pandas to surface top regions, discount impact and product performance
-**Stack** → `Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`
+### 🏘️ Real Estate Data Warehouse
+`Snowflake` `dbt` `Apache Airflow` `Power BI` `Docker`
 
-<a href="https://github.com/ayoub-data-analyst/superstore-sales-analysis"><img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white"/></a>
+**Problem** → Multi-country real estate listings arriving as raw, unstructured data with no analytics-ready layer
+**Solution** → Designed a Medallion architecture (Bronze/Silver/Gold) on Snowflake as part of a 4-person team; orchestrated dbt models via Airflow; connected Power BI directly to the Gold-layer star schema (`fact_listings` + 3 dimensions) for simplified, interactive reporting
+**Role** → Data engineering + BI integration within a team of 4
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Superstore ETL → PostgreSQL
-**Problem** → Flat CSV data unusable for BI queries
-**Solution** → SQLAlchemy ETL pipeline normalizing data into PostgreSQL with analytical SQL views
-**Stack** → `Python` `SQLAlchemy` `PostgreSQL` `SQL`
+### 🪙 Crypto Market Data Platform
+`Python` `Apache Airflow` `Snowflake` `MinIO` `Power BI` `Docker`
 
-<a href="https://github.com/ayoub-data-analyst/Superstore-Database-SQLAlchemy-ETL-Project"><img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white"/></a>
+**Problem** → Real-time crypto market data needed a scalable, structured pipeline for analysis
+**Solution** → Built an end-to-end pipeline ingesting live data from the CoinGecko API, structured through a Medallion architecture; automated ingestion/transformation/orchestration with Airflow, stored in MinIO, modeled in Snowflake; delivered Power BI dashboards for market KPIs
+**Role** → Solo pipeline design, orchestration & dashboarding
 
 </td>
 </tr>
 <tr>
+<td width="100%" valign="top">
+
+### 🏙️ Darkom Real Estate Analytics Platform
+`Python` `PostgreSQL` `SQLAlchemy` `Power BI`
+
+**Problem** → 1,508 real estate listings across 10 Moroccan cities needed cleaning and structure before any analysis was possible
+**Solution** → Built an analytical pipeline transforming raw listings into a structured dataset; handled missing values (city-level mode / grouped median) and outliers (IQR + business rules); modeled the data into a star schema on PostgreSQL; designed a 4-page interactive Power BI report covering pricing, segments and market performance
+**Role** → End-to-end: data quality, modeling, and BI reporting
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Certifications & Education
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
-### 📈 Superstore Sales Dashboard
-**Problem** → Stakeholders need to explore KPIs interactively, not read static reports
-**Solution** → Streamlit dashboard on top of PostgreSQL for regional and product-level sales trends
-**Stack** → `Python` `Streamlit` `PostgreSQL`
-
-<a href="https://github.com/ayoub-data-analyst/Superstore-Sales-Dashboard"><img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white"/></a>
+**Certifications**
+- Data Engineering Professional Certificate — *Snowflake*
+- Power BI Essential Training — *LinkedIn Learning*
+- SQL Essential Training — *LinkedIn Learning*
+- Learning Docker — *LinkedIn Learning*, 2026
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 Bank Transactions Pipeline
-**Problem** → Messy, inconsistent banking transaction exports
-**Solution** → Cleaning/enrichment pipeline plus a PostgreSQL star-schema warehouse with KPI views
-**Stack** → `Python` `Pandas` `PostgreSQL` `SQL`
+**Education**
+- Data Analyst Training — *CCFBS, Simplon Maghreb*, Jan 2026 – present
+- Baccalauréat, Economic Sciences — *Lycée Technique El Khawarezmi*, 2025
 
-<a href="https://github.com/ayoub-data-analyst/bank-transactions-database"><img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white"/></a>
+**Languages**
+Arabic (native) · French (intermediate) · English (intermediate)
 
 </td>
 </tr>
@@ -143,11 +173,12 @@ analytics, ETL pipeline design and PostgreSQL data warehousing.
 
 ## 📫 Let's Connect
 
-I'm actively looking for **internship or junior Data Analyst / BI Analyst** opportunities.
-If you're working on something data-driven, let's talk.
+I'm actively looking for a **Junior Data Engineer, Analytics Engineer or Data Analyst** role.
+If you're building something data-driven, let's talk.
 
 <a href="https://www.linkedin.com/in/ayoub-el-ouichouany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ayoub.el-ouichouany@ccfbs.ma"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ayoubelouichouany0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+212601892215"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <br/><br/>
 
